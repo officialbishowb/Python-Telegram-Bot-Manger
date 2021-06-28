@@ -1,3 +1,4 @@
 # Python-Telegram-Bot-Manger
 
-Coming soon...
+Unfinished Bot!
+
