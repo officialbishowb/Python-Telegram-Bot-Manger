@@ -4,7 +4,7 @@ import func
 from telebot import types
 
 # general declaration and init
-token = "1348440990:AAHNjomwUi26420jd0LQrGt6X0QYWhxsNyE"
+token = "bot token"
 bot = telebot.TeleBot(token, "HTML")
 
 # owner info
